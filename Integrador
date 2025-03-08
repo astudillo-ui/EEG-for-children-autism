@@ -1,19 +1,2 @@
-Graph TD;
-    A[Inicio] --> B[Exploración de tecnologías para señales cerebrales];
-    A --> C[Investigación de hardware y sensores relacionados];
-    B --> D[Selección de dispositivos adecuados];
-    C --> D;
-    D --> E[Diseño del circuito impreso en software EAGLE];
-    E --> F[¿Existen inconvenientes?];
-    F -- Sí --> G[Revisión con el asesor y ajustes en el diseño];
-    F -- No --> H[Fabricación del circuito y ensamblaje de componentes];
-    G --> H;
-    H --> I[Pruebas iniciales: captura y análisis de señales cerebrales];
-    I --> J[Procesamiento y evaluación de datos en software especializado];
-    J --> K[¿Resultados satisfactorios?];
-    K -- No --> L[Consulta con el asesor, investigación de soluciones y correcciones];
-    K -- Sí --> M[Mejoras en el diseño y nuevas pruebas];
-    L --> M;
-    M --> N[Ajustes finales y detalles de presentación];
-    N --> O[Preparación y exposición del proyecto con su documentación];
-    O --> P[Fin];
+Graph TD 
+    A[Inicio] --> B[Exploracion]
