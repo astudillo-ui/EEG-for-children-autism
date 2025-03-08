@@ -1,2 +1,3 @@
+```Mermaid
 Graph TD 
     A[Inicio] --> B[Exploracion]
