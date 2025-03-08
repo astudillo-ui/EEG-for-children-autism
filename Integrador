@@ -1,4 +1,4 @@
-flowchart TD;
+Graph TD;
     A[Inicio] --> B[Exploración de tecnologías para señales cerebrales];
     A --> C[Investigación de hardware y sensores relacionados];
     B --> D[Selección de dispositivos adecuados];
